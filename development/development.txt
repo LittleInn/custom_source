@@ -5,3 +5,4 @@ commit 2 custom
 commit 3 custom
 commit 1.1 target
 commit 1.2 target
+custom next commit

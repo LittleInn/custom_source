@@ -2,3 +2,4 @@ init commit1 target
 commit 2 target
 commit 1 custom
 commit 2 custom
+commit 3 custom

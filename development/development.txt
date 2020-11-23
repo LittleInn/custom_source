@@ -1,4 +1,5 @@
 init commit1 target
-commit 2 custom
+commit 2 change to custom
 commit 1.1 target
 commit 1.2 target
+add target commit
